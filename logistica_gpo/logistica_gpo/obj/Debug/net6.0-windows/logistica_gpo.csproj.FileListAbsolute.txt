@@ -1,0 +1,204 @@
+E:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.exe
+E:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.deps.json
+E:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.runtimeconfig.json
+E:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.dll
+E:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.pdb
+E:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.AssemblyReference.cache
+E:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.Form1.resources
+E:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.GenerateResource.cache
+E:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.GeneratedMSBuildEditorConfig.editorconfig
+E:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfoInputs.cache
+E:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfo.cs
+E:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.CoreCompileInputs.cache
+E:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.dll
+E:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\refint\logistica_gpo.dll
+E:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.pdb
+E:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.genruntimeconfig.cache
+E:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\ref\logistica_gpo.dll
+F:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.exe
+F:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.deps.json
+F:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.runtimeconfig.json
+F:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.dll
+F:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.pdb
+F:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.AssemblyReference.cache
+F:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.Form1.resources
+F:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.GenerateResource.cache
+F:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.GeneratedMSBuildEditorConfig.editorconfig
+F:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfoInputs.cache
+F:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfo.cs
+F:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.CoreCompileInputs.cache
+F:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.dll
+F:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\refint\logistica_gpo.dll
+F:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.pdb
+F:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.genruntimeconfig.cache
+F:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\ref\logistica_gpo.dll
+D:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.exe
+D:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.deps.json
+D:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.runtimeconfig.json
+D:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.dll
+D:\quinta superiore\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.pdb
+D:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.AssemblyReference.cache
+D:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.Form1.resources
+D:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.GenerateResource.cache
+D:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.GeneratedMSBuildEditorConfig.editorconfig
+D:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfoInputs.cache
+D:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfo.cs
+D:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.CoreCompileInputs.cache
+D:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.dll
+D:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\refint\logistica_gpo.dll
+D:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.pdb
+D:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.genruntimeconfig.cache
+D:\quinta superiore\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\ref\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.exe
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.deps.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.runtimeconfig.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.AssemblyReference.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.Form1.resources
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.GenerateResource.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfoInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfo.cs
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.CoreCompileInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\refint\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.genruntimeconfig.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\ref\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.exe
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.deps.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.runtimeconfig.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.AssemblyReference.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.Form1.resources
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.GenerateResource.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfoInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfo.cs
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.CoreCompileInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\refint\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.genruntimeconfig.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\ref\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.exe
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.deps.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.runtimeconfig.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.AssemblyReference.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.Form1.resources
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.GenerateResource.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfoInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfo.cs
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.CoreCompileInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\refint\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.genruntimeconfig.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221111T080746Z-001\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\ref\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.exe
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.deps.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.runtimeconfig.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.AssemblyReference.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.Form1.resources
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.GenerateResource.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfoInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfo.cs
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.CoreCompileInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\refint\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.genruntimeconfig.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\ref\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.exe
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.deps.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.runtimeconfig.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.AssemblyReference.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.Form1.resources
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.GenerateResource.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfoInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfo.cs
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.CoreCompileInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\refint\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.genruntimeconfig.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo-20221118T093234Z-001-20221122T122256Z-001\logistica_gpo-20221118T093234Z-001\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\ref\logistica_gpo.dll
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.exe
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.deps.json
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.runtimeconfig.json
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.AssemblyReference.cache
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.Form1.resources
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.GenerateResource.cache
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfoInputs.cache
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfo.cs
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.CoreCompileInputs.cache
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\refint\logistica_gpo.dll
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.genruntimeconfig.cache
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\ref\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.exe
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.deps.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.runtimeconfig.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.AssemblyReference.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.Form1.resources
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.GenerateResource.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfoInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfo.cs
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.CoreCompileInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\refint\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.genruntimeconfig.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\ref\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.exe
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.deps.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.runtimeconfig.json
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.AssemblyReference.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.Form1.resources
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.GenerateResource.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfoInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfo.cs
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.CoreCompileInputs.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\refint\logistica_gpo.dll
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.genruntimeconfig.cache
+C:\Users\fasolini.20400\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\ref\logistica_gpo.dll
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.exe
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.deps.json
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.runtimeconfig.json
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\bin\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.AssemblyReference.cache
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.Form1.resources
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.GenerateResource.cache
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfoInputs.cache
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.AssemblyInfo.cs
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.csproj.CoreCompileInputs.cache
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.dll
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\refint\logistica_gpo.dll
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.pdb
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\logistica_gpo.genruntimeconfig.cache
+C:\Users\fasol\OneDrive\Desktop\logistica_gpo\logistica_gpo\obj\Debug\net6.0-windows\ref\logistica_gpo.dll
